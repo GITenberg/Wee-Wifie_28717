@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1352
     wikipedia: https://en.wikipedia.org/wiki/Rosa_Nouchette_Carey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28717#Wee-Wifie
 gutenberg_issued: '2009-05-08'
 gutenberg_type: Text
 identifiers:
